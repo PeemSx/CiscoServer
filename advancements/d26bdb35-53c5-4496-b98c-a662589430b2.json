@@ -654,6 +654,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2024-09-09 21:56:37 +0700"
+    },
+    "done": false
+  },
   "ars_elemental:recipes/ars_nouveau/flight_alt": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
@@ -1667,6 +1673,12 @@
   "ars_nouveau:recipes/building_blocks/manipulation_essence_to_calcite": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-09 22:12:01 +0700"
     },
     "done": true
   },
@@ -3362,6 +3374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-09 22:12:01 +0700"
+    },
+    "done": true
+  },
   "ars_elemental:recipes/ars_nouveau/tablet_ritual_tesla_coil": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
@@ -3588,6 +3606,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2024-09-06 00:37:26 +0700"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-09-09 21:56:37 +0700"
     },
     "done": true
   },
@@ -3986,6 +4010,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-09-06 08:35:28 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-09-09 22:12:24 +0700"
     },
     "done": true
   },
@@ -5056,6 +5086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-09 22:12:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-09-07 02:26:08 +0700"
@@ -5443,6 +5479,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-09-06 00:37:26 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-09-09 22:12:24 +0700"
     },
     "done": true
   },
@@ -5934,9 +5976,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-09 21:56:37 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-09-07 00:47:17 +0700"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-09-09 21:59:52 +0700"
     },
     "done": true
   },
@@ -6361,6 +6415,12 @@
   "ars_nouveau:recipes/ars_nouveau/sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-09-09 22:12:01 +0700"
     },
     "done": true
   },
