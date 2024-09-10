@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2024-09-10 13:04:12 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-09-06 09:07:13 +0700"
@@ -413,6 +419,12 @@
     },
     "done": true
   },
+  "undead_unleashed:shards_of_the_past": {
+    "criteria": {
+      "shards_of_the_past": "2024-09-10 13:10:14 +0700"
+    },
+    "done": true
+  },
   "morevillagers:root": {
     "criteria": {
       "always": "2024-09-06 00:23:10 +0700"
@@ -428,6 +440,12 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-09-07 02:26:08 +0700"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_chain": "2024-09-10 13:46:11 +0700"
     },
     "done": true
   },
@@ -656,7 +674,8 @@
   },
   "morevillagers:all_professions_traded": {
     "criteria": {
-      "fletcher": "2024-09-09 21:56:37 +0700"
+      "fletcher": "2024-09-09 21:56:37 +0700",
+      "farmer": "2024-09-10 13:13:15 +0700"
     },
     "done": false
   },
@@ -1005,6 +1024,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-09-06 09:07:15 +0700"
+    },
+    "done": true
+  },
+  "undead_unleashed:boo": {
+    "criteria": {
+      "boo": "2024-09-10 13:04:12 +0700"
     },
     "done": true
   },
@@ -1463,6 +1488,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-09-07 00:36:10 +0700"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_chain": "2024-09-10 13:46:11 +0700"
     },
     "done": true
   },
@@ -2272,6 +2303,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2024-09-10 13:46:34 +0700"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-09-06 00:23:09 +0700"
@@ -2595,6 +2632,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-09-10 13:34:37 +0700"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2024-09-06 00:34:08 +0700"
@@ -2730,6 +2773,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_alternating_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2024-09-10 13:04:12 +0700"
     },
     "done": true
   },
@@ -3371,6 +3420,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-09-06 09:09:56 +0700"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-09-10 13:46:36 +0700"
     },
     "done": true
   },
@@ -4037,6 +4092,12 @@
     },
     "done": true
   },
+  "oriacs:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_chain": "2024-09-10 13:46:11 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-09-06 08:34:38 +0700"
@@ -4169,6 +4230,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-09-10 13:34:37 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-09-06 00:45:29 +0700"
@@ -4254,6 +4321,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/rare_gem": {
+    "criteria": {
+      "gem": "2024-09-10 13:11:00 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
@@ -4275,6 +4348,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "majruszsaccessories:tamed_potato_beetle": {
+    "criteria": {
+      "picked_up_accessory": "2024-09-10 13:12:21 +0700"
     },
     "done": true
   },
@@ -5092,6 +5171,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-09-10 12:53:36 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-09-07 02:26:08 +0700"
@@ -5559,6 +5644,7 @@
       "cooked_porkchop": "2024-09-06 08:49:27 +0700",
       "cooked_beef": "2024-09-06 09:11:20 +0700",
       "porkchop": "2024-09-06 00:46:48 +0700",
+      "cooked_chicken": "2024-09-10 13:43:37 +0700",
       "cooked_mutton": "2024-09-07 00:01:36 +0700",
       "rotten_flesh": "2024-09-06 00:41:39 +0700",
       "cooked_rabbit": "2024-09-07 00:01:24 +0700",
@@ -6286,6 +6372,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2024-09-10 13:11:01 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-09-06 00:34:09 +0700"
@@ -6463,6 +6555,12 @@
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2024-09-07 01:22:42 +0700"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-09-10 12:53:36 +0700"
     },
     "done": true
   },
@@ -6806,6 +6904,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-09-07 00:08:04 +0700"
+    },
+    "done": true
+  },
+  "oriacs:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_chain": "2024-09-10 13:46:11 +0700"
     },
     "done": true
   },
