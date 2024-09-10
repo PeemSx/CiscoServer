@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/netherite": {
+    "criteria": {
+      "has_scrap": "2024-09-10 21:16:53 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-09-07 01:28:05 +0700"
@@ -1153,6 +1159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-09-10 22:05:35 +0700"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/decorative_blocks.general/acacia_palisade": {
     "criteria": {
       "has_log": "2024-09-06 00:34:04 +0700"
@@ -1277,6 +1289,12 @@
   "smallships:recipes/transportation/dark_oak_drakkar": {
     "criteria": {
       "in_water": "2024-09-06 00:37:26 +0700"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/leafcutter_ant_pupa": {
+    "criteria": {
+      "leafcutter_ant_pupa": "2024-09-10 21:52:21 +0700"
     },
     "done": true
   },
@@ -1485,6 +1503,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-09-10 22:07:09 +0700"
+    },
+    "done": false
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-09-07 00:36:10 +0700"
@@ -1494,6 +1518,12 @@
   "oriacs:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_chain": "2024-09-10 13:46:11 +0700"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/heavy": {
+    "criteria": {
+      "has_item": "2024-09-10 21:33:59 +0700"
     },
     "done": true
   },
@@ -1554,6 +1584,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-09-07 00:47:17 +0700"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2024-09-10 22:07:08 +0700"
     },
     "done": true
   },
@@ -1716,6 +1752,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-09-07 02:46:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-09-10 22:07:08 +0700"
     },
     "done": true
   },
@@ -2393,6 +2435,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-09-10 22:07:08 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/gilded_sourcestone_alternating_slab": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
@@ -2449,6 +2497,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smithingtable": "2024-09-10 21:27:07 +0700",
       "cauldron": "2024-09-07 01:55:14 +0700"
     },
     "done": false
@@ -2673,6 +2722,12 @@
       "has_parent_recipe": "2024-09-06 09:04:56 +0700"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-09-10 22:05:35 +0700"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
@@ -3097,6 +3152,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-09-10 21:46:06 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-09-06 08:39:13 +0700"
@@ -3126,6 +3187,26 @@
       "has_chest": "2024-09-06 08:38:04 +0700"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "!bit13": "2024-09-10 22:03:50 +0700",
+      "!bit14": "2024-09-10 22:03:50 +0700",
+      "!bit11": "2024-09-10 22:03:50 +0700",
+      "!bit12": "2024-09-10 22:03:50 +0700",
+      "!bit10": "2024-09-10 22:03:50 +0700",
+      "!bit9": "2024-09-10 22:03:50 +0700",
+      "!bit8": "2024-09-10 22:03:50 +0700",
+      "!bit7": "2024-09-10 22:03:50 +0700",
+      "!bit6": "2024-09-10 22:03:50 +0700",
+      "!bit5": "2024-09-10 22:03:50 +0700",
+      "!bit4": "2024-09-10 22:03:50 +0700",
+      "!bit3": "2024-09-10 22:03:50 +0700",
+      "!bit2": "2024-09-10 22:03:50 +0700",
+      "!bit1": "2024-09-10 22:03:50 +0700",
+      "!bit0": "2024-09-10 22:03:50 +0700"
+    },
+    "done": false
   },
   "enigmaticlegacy:recipes/generic/insignia": {
     "criteria": {
@@ -3209,6 +3290,12 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-09-10 21:33:59 +0700"
     },
     "done": true
   },
@@ -3505,6 +3592,12 @@
   "vinery:vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-09-06 09:07:14 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea": {
+    "criteria": {
+      "has_item": "2024-09-10 21:36:39 +0700"
     },
     "done": true
   },
@@ -4200,6 +4293,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2024-09-10 21:16:53 +0700"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2024-09-06 00:23:09 +0700"
@@ -4252,9 +4351,13 @@
     "criteria": {
       "minecraft:pillager": "2024-09-06 23:44:16 +0700",
       "minecraft:skeleton": "2024-09-07 01:50:01 +0700",
+      "minecraft:hoglin": "2024-09-10 22:08:29 +0700",
+      "minecraft:magma_cube": "2024-09-10 22:08:29 +0700",
       "minecraft:spider": "2024-09-06 00:45:28 +0700",
       "minecraft:evoker": "2024-09-07 02:07:29 +0700",
+      "minecraft:zombified_piglin": "2024-09-10 22:03:51 +0700",
       "minecraft:husk": "2024-09-07 02:41:47 +0700",
+      "minecraft:piglin": "2024-09-10 22:08:29 +0700",
       "minecraft:stray": "2024-09-07 02:44:04 +0700",
       "minecraft:vex": "2024-09-06 23:48:42 +0700",
       "minecraft:zombie": "2024-09-06 08:46:17 +0700"
@@ -4357,6 +4460,12 @@
     },
     "done": true
   },
+  "enigmaticlegacy:book/materials/ancient_debris": {
+    "criteria": {
+      "has_scrap": "2024-09-10 21:16:53 +0700"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2024-09-06 09:07:14 +0700"
@@ -4414,6 +4523,12 @@
   "eccentrictome:recipes/tools/tome": {
     "criteria": {
       "has_book": "2024-09-07 02:23:54 +0700"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2024-09-10 22:05:35 +0700"
     },
     "done": true
   },
@@ -4558,6 +4673,12 @@
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2024-09-06 08:34:38 +0700"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2024-09-10 22:07:08 +0700"
     },
     "done": true
   },
@@ -5156,6 +5277,12 @@
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2024-09-06 09:04:56 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-09-10 21:16:53 +0700"
     },
     "done": true
   },
@@ -6152,6 +6279,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-09-10 21:33:59 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/archwood_stairs": {
     "criteria": {
       "has_journal": "2024-09-06 00:23:09 +0700"
@@ -6222,6 +6355,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "onion": "2024-09-07 00:36:19 +0700",
+      "sugar_cane": "2024-09-10 21:44:49 +0700",
       "potato": "2024-09-07 00:35:50 +0700",
       "wheat": "2024-09-07 00:35:55 +0700",
       "carrot": "2024-09-07 01:37:23 +0700"
@@ -6357,6 +6491,12 @@
   "twigs:recipes/columns/stone_column_stonecutting": {
     "criteria": {
       "has_item": "2024-09-06 09:06:33 +0700"
+    },
+    "done": true
+  },
+  "twigs:recipes/azalea_flowers_from_flowering_azalea_leaves": {
+    "criteria": {
+      "has_the_recipe": "2024-09-10 21:36:39 +0700"
     },
     "done": true
   },
