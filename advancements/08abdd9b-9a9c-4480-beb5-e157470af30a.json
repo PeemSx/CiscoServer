@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-09-07 00:49:03 +0700"
@@ -146,6 +152,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2024-09-07 00:02:31 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -297,6 +309,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-09-06 23:39:08 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -463,6 +481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/fire_essence_to_charge": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -540,6 +564,12 @@
       "has_journal": "2024-09-06 23:29:13 +0700"
     },
     "done": true
+  },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "fletcher": "2024-09-10 21:11:46 +0700"
+    },
+    "done": false
   },
   "ars_elemental:recipes/ars_nouveau/flight_alt": {
     "criteria": {
@@ -1286,17 +1316,17 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:basalt_deltas": "2024-09-07 02:38:49 +0700"
-    },
-    "done": false
-  },
   "upgradednetherite:recipes/essences/phantom_essence": {
     "criteria": {
       "has_phantom_membrane": "2024-09-07 01:27:42 +0700"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:basalt_deltas": "2024-09-07 02:38:49 +0700"
+    },
+    "done": false
   },
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
@@ -1520,6 +1550,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
     "criteria": {
       "has_iron_ingot": "2024-09-06 23:36:26 +0700"
@@ -1604,15 +1640,15 @@
     },
     "done": true
   },
-  "bakery:recipes/oat_block": {
-    "criteria": {
-      "has_oat": "2024-09-07 01:58:12 +0700"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2024-09-07 01:53:20 +0700"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_block": {
+    "criteria": {
+      "has_oat": "2024-09-07 01:58:12 +0700"
     },
     "done": true
   },
@@ -1898,6 +1934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2024-09-06 23:29:13 +0700"
@@ -1985,6 +2027,12 @@
   "ars_nouveau:recipes/ars_nouveau/end_fiber": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -2239,6 +2287,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column": {
+    "criteria": {
+      "has_item": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -2347,6 +2401,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/dowsing_rod": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -2446,6 +2506,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2024-09-06 23:40:18 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -2680,6 +2746,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/stuffed_potato": {
     "criteria": {
       "has_baked_potato": "2024-09-07 00:29:46 +0700"
@@ -2804,6 +2876,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-09-07 01:40:26 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -3181,6 +3259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/sourcestone_mosaic_stairs": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -3214,6 +3298,12 @@
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2024-09-07 00:11:14 +0700"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2024-09-10 21:11:46 +0700"
     },
     "done": true
   },
@@ -3471,6 +3561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/item_detector": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -3576,6 +3672,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-09-07 00:02:29 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -4162,6 +4264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-09-06 23:39:08 +0700"
@@ -4301,6 +4409,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-09-07 01:19:58 +0700",
@@ -4395,15 +4509,21 @@
     },
     "done": false
   },
-  "apotheosis:enchanting/enchanter": {
+  "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
-      "enchanting_table": "2024-09-07 02:21:53 +0700"
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-09-07 01:39:12 +0700"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-09-07 02:21:53 +0700"
     },
     "done": true
   },
@@ -4501,6 +4621,18 @@
   "ars_nouveau:recipes/ars_nouveau/smooth_gilded_sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -4618,6 +4750,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/ritual_challenge": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -4675,6 +4813,12 @@
   "twigs:recipes/lamps/lamp": {
     "criteria": {
       "has_item": "2024-09-07 00:02:33 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -5199,6 +5343,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-09-10 21:11:46 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-09-07 00:03:13 +0700"
@@ -5440,6 +5590,12 @@
     },
     "done": true
   },
+  "twigs:recipes/columns/stone_column_stonecutting": {
+    "criteria": {
+      "has_item": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/enchanting_apparatus": {
     "criteria": {
       "has_journal": "2024-09-06 23:29:13 +0700"
@@ -5455,6 +5611,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-09-07 02:30:32 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -5892,9 +6054,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-09-07 00:23:09 +0700"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/stone_pillar": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
@@ -6004,6 +6178,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-09-07 00:28:48 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-09-10 21:10:02 +0700"
     },
     "done": true
   },
