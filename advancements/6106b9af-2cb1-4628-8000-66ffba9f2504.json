@@ -2725,6 +2725,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-09-11 16:08:39 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/ars_nouveau/moonfall_2": {
     "criteria": {
       "has_journal": "2024-09-06 00:29:27 +0700"
@@ -3927,6 +3933,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-09-11 16:06:56 +0700"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/conjuration_essence_to_end_stone": {
     "criteria": {
       "has_journal": "2024-09-06 00:29:27 +0700"
@@ -3984,6 +3996,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-09-07 00:14:18 +0700"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-09-11 16:06:56 +0700"
     },
     "done": true
   },
